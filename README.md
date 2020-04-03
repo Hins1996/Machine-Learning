@@ -1,2 +1,2 @@
 # Machine-Learning
-Include all conventional machine learning materials 
+Include all materials related to conventional machine learning
